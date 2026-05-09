@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ronoklanti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ronoklanti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ronoklanti/) |
+| **Get License** | [Commercial Licensing for Ronoklanti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ronoklanti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন হাওয়ায় উড়ে আসে তোমার গায়ের ঘ্রাণ
+> বুকের ভেতর বাজতে থাকে একলা মনের গান
+> উদাস রাতে চুপিসারে আমায় তুমি ডাকো
+> বুকের ভেতর গোপন করে আমায় তুমি রাখো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
