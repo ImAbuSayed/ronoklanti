@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ronoklanti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ronoklanti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ronoklanti/) |
+| **Get License** | [Music Rights & Licensing for Ronoklanti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ronoklanti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `eb93bed67eb4ea236db0229f97c45902f830a1b61b72b3d125387c15de8fb291` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
